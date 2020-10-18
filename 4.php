@@ -26,7 +26,7 @@ function findSame($word) {
 			$result = implode(', ', $output);
 			return $result;
 		} else {
-			return "Tidak ditemukan!";
+			return "Error!";
 		}
 	} else {
 		return false;

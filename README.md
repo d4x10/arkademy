@@ -1,4 +1,4 @@
-# Arkademy Project
+# Arkademy Project A
 
 Bahasa pemrograman yang saya gunakan : **PHP** <br>
 Software yang dibutuhkan : **XAMPP**
